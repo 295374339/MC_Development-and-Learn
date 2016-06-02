@@ -1,0 +1,16 @@
+name: ybg_club_plugin
+main: com.github.ybg.YBGMain
+version: 1.1.5
+#命令
+commands:
+ register:
+  description: YBG社注册
+  usage: /register <密码> <确认密码>
+ login:
+  description: YBG社登录
+  usage: /login <密码>
+ setSpawn:
+  description: YBG社设置出生点
+  usage: /setSpawn <X> <Y> <Z>
+  permission: ybg_club_plugin.basic
+  permission-message: 你没有OP权限

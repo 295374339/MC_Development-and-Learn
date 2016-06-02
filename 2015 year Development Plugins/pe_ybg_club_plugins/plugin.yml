@@ -1,0 +1,16 @@
+name: YBGClub
+main: com.ybg.openWorld.FirstPlugin
+version: "1.0"
+api: ["1.0.1"]
+
+#创建权限
+permission:
+ ybgclub.command.permission:
+  description: 允许所有的用户使用ybg社指令
+  default: true
+#命令的创建	
+commands:
+ helloworld:
+  description: 调用输出HelloWorld!
+  usage: "/helloworld"
+  permission: ybgclub.command.permission 

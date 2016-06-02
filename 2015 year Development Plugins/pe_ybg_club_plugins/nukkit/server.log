@@ -1,0 +1,649 @@
+2016-1-22 11:33:58 [INFO] Loading nukkit.yml...
+2016-1-22 11:33:58 [INFO] Loading server properties...
+2016-1-22 11:33:58 [INFO] ½« ÖĞÎÄ(¼òÌå) (chs) Éè¶¨Îª»ù±¾ÓïÑÔ
+2016-1-22 11:33:58 [INFO] ÕıÔÚÆô¶¯Ö§³Ö Minecraft£ºPE v0.13.1 alpha °æ±¾µÄ·şÎñÆ÷
+2016-1-22 11:33:58 [INFO] ÕıÔÚÆô¶¯·şÎñÆ÷ÔÚ 0.0.0.0:19132
+2016-1-22 11:33:58 [INFO] ´Ë·şÎñÆ÷ÕıÔÚÔËĞĞ Nukkit 1.0dev °æ±¾ "ÌO¹û(Apple)ÅÉ(Pie)" £¨API 1.0.0£©
+2016-1-22 11:33:58 [INFO] Nukkit ¸ù¾İ LGPL Ğí¿É·¢ĞĞ
+2016-1-22 11:33:58 [INFO] ×¼±¸µØÍ¼ÖĞ... "world"
+2016-1-22 11:33:58 [INFO] Æô¶¯ GS4 ×´Ì¬¼àÌıÆ÷
+2016-1-22 11:33:58 [INFO] ½« query ¶Ë¿ÚÉè¶¨Îª 19132
+2016-1-22 11:33:58 [INFO] Query ÔËĞĞÔÚ 0.0.0.0:19132
+2016-1-22 11:33:58 [INFO] Ä¬ÈÏµÄÓÎÏ·Ä£Ê½Îª£ºÉú´æÄ£Ê½
+2016-1-22 11:33:58 [INFO] Æô¶¯Íê³É (1.079s)£¡ÈçĞè°ïÖú£¬ÇëÊäÈë "help" »ò "?"
+2016-1-22 11:41:19 [INFO] Loading nukkit.yml...
+2016-1-22 11:41:19 [INFO] Loading server properties...
+2016-1-22 11:41:19 [INFO] ½« ÖĞÎÄ(¼òÌå) (chs) Éè¶¨Îª»ù±¾ÓïÑÔ
+2016-1-22 11:41:19 [INFO] ÕıÔÚÆô¶¯Ö§³Ö Minecraft£ºPE v0.13.1 alpha °æ±¾µÄ·şÎñÆ÷
+2016-1-22 11:41:19 [INFO] ÕıÔÚÆô¶¯·şÎñÆ÷ÔÚ 0.0.0.0:19132
+2016-1-22 11:41:19 [INFO] ´Ë·şÎñÆ÷ÕıÔÚÔËĞĞ Nukkit 1.0dev °æ±¾ "ÌO¹û(Apple)ÅÉ(Pie)" £¨API 1.0.0£©
+2016-1-22 11:41:19 [INFO] Nukkit ¸ù¾İ LGPL Ğí¿É·¢ĞĞ
+2016-1-22 11:41:20 [ERROR] ÎŞ·¨¶ÁÈ¡ÔÚ 'H:\MC_Development\MC_Project_eclipse\YBG_Club_Plugins\nukkit\plugins' Ä¿Â¼ÖĞµÄ 'YBGClub.jar'£ºjava.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.String
+	at cn.nukkit.plugin.PluginDescription.loadMap(PluginDescription.java:146)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-22 11:41:20 [ALERT] java.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.String
+	at cn.nukkit.plugin.PluginDescription.loadMap(PluginDescription.java:146)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-22 11:41:20 [INFO] ×¼±¸µØÍ¼ÖĞ... "world"
+2016-1-22 11:41:20 [INFO] Æô¶¯ GS4 ×´Ì¬¼àÌıÆ÷
+2016-1-22 11:41:20 [INFO] ½« query ¶Ë¿ÚÉè¶¨Îª 19132
+2016-1-22 11:41:20 [INFO] Query ÔËĞĞÔÚ 0.0.0.0:19132
+2016-1-22 11:41:20 [INFO] Ä¬ÈÏµÄÓÎÏ·Ä£Ê½Îª£ºÉú´æÄ£Ê½
+2016-1-22 11:41:20 [INFO] Æô¶¯Íê³É (1.101s)£¡ÈçĞè°ïÖú£¬ÇëÊäÈë "help" »ò "?"
+2016-1-22 11:47:24 [INFO] Loading nukkit.yml...
+2016-1-22 11:47:24 [INFO] Loading server properties...
+2016-1-22 11:47:24 [INFO] å°† ä¸­æ–‡(ç®€ä½“) (chs) è®¾å®šä¸ºåŸºæœ¬è¯­è¨€
+2016-1-22 11:47:24 [INFO] æ­£åœ¨å¯åŠ¨æ”¯æŒ Minecraftï¼šPE v0.13.1 alpha ç‰ˆæœ¬çš„æœåŠ¡å™¨
+2016-1-22 11:47:24 [INFO] æ­£åœ¨å¯åŠ¨æœåŠ¡å™¨åœ¨ 0.0.0.0:19132
+2016-1-22 11:47:24 [INFO] æ­¤æœåŠ¡å™¨æ­£åœ¨è¿è¡Œ Nukkit 1.0dev ç‰ˆæœ¬ "è˜‹æœ(Apple)æ´¾(Pie)" ï¼ˆAPI 1.0.0ï¼‰
+2016-1-22 11:47:24 [INFO] Nukkit æ ¹æ® LGPL è®¸å¯å‘è¡Œ
+2016-1-22 11:47:24 [ERROR] æ— æ³•è¯»å–åœ¨ 'H:\MC_Development\MC_Project_eclipse\YBG_Club_Plugins\nukkit\plugins' ç›®å½•ä¸­çš„ 'YBG_Plugins.jar'ï¼šjava.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.String
+	at cn.nukkit.plugin.PluginDescription.loadMap(PluginDescription.java:146)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-22 11:47:24 [ALERT] java.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.String
+	at cn.nukkit.plugin.PluginDescription.loadMap(PluginDescription.java:146)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-22 11:47:24 [INFO] å‡†å¤‡åœ°å›¾ä¸­... "world"
+2016-1-22 11:47:24 [INFO] å¯åŠ¨ GS4 çŠ¶æ€ç›‘å¬å™¨
+2016-1-22 11:47:24 [INFO] å°† query ç«¯å£è®¾å®šä¸º 19132
+2016-1-22 11:47:24 [INFO] Query è¿è¡Œåœ¨ 0.0.0.0:19132
+2016-1-22 11:47:24 [INFO] é»˜è®¤çš„æ¸¸æˆæ¨¡å¼ä¸ºï¼šç”Ÿå­˜æ¨¡å¼
+2016-1-22 11:47:24 [INFO] å¯åŠ¨å®Œæˆ (1.101s)ï¼å¦‚éœ€å¸®åŠ©ï¼Œè¯·è¾“å…¥ "help" æˆ– "?"
+2016-1-22 11:51:17 [INFO] Loading nukkit.yml...
+2016-1-22 11:51:17 [INFO] Loading server properties...
+2016-1-22 11:51:17 [INFO] å°† ä¸­æ–‡(ç®€ä½“) (chs) è®¾å®šä¸ºåŸºæœ¬è¯­è¨€
+2016-1-22 11:51:17 [INFO] æ­£åœ¨å¯åŠ¨æ”¯æŒ Minecraftï¼šPE v0.13.1 alpha ç‰ˆæœ¬çš„æœåŠ¡å™¨
+2016-1-22 11:51:17 [INFO] æ­£åœ¨å¯åŠ¨æœåŠ¡å™¨åœ¨ 0.0.0.0:19132
+2016-1-22 11:51:17 [INFO] æ­¤æœåŠ¡å™¨æ­£åœ¨è¿è¡Œ Nukkit 1.0dev ç‰ˆæœ¬ "è˜‹æœ(Apple)æ´¾(Pie)" ï¼ˆAPI 1.0.0ï¼‰
+2016-1-22 11:51:17 [INFO] Nukkit æ ¹æ® LGPL è®¸å¯å‘è¡Œ
+2016-1-22 11:51:18 [INFO] è¯»å–ä¸­... YBGClub v1.0
+2016-1-22 11:51:18 [WARNING] [YBGClub] =======YBGæ’ä»¶åˆå§‹åŒ–ä¸­....
+2016-1-22 11:51:18 [INFO] å‡†å¤‡åœ°å›¾ä¸­... "world"
+2016-1-22 11:51:18 [INFO] å¼€å¯ä¸­... YBGClub v1.0
+2016-1-22 11:51:18 [WARNING] [YBGClub] =======æ¬¢è¿ä½¿ç”¨YBGç¤¾æ’ä»¶
+2016-1-22 11:51:18 [INFO] å¯åŠ¨ GS4 çŠ¶æ€ç›‘å¬å™¨
+2016-1-22 11:51:18 [INFO] å°† query ç«¯å£è®¾å®šä¸º 19132
+2016-1-22 11:51:18 [INFO] Query è¿è¡Œåœ¨ 0.0.0.0:19132
+2016-1-22 11:51:18 [INFO] é»˜è®¤çš„æ¸¸æˆæ¨¡å¼ä¸ºï¼šç”Ÿå­˜æ¨¡å¼
+2016-1-22 11:51:18 [INFO] å¯åŠ¨å®Œæˆ (1.127s)ï¼å¦‚éœ€å¸®åŠ©ï¼Œè¯·è¾“å…¥ "help" æˆ– "?"
+2016-1-22 21:03:24 [INFO] Loading nukkit.yml...
+2016-1-22 21:03:24 [INFO] Loading server properties...
+2016-1-22 21:03:24 [INFO] ½« ÖĞÎÄ(¼òÌå) (chs) Éè¶¨Îª»ù±¾ÓïÑÔ
+2016-1-22 21:03:24 [INFO] ÕıÔÚÆô¶¯Ö§³Ö Minecraft£ºPE v0.13.1 alpha °æ±¾µÄ·şÎñÆ÷
+2016-1-22 21:03:24 [INFO] ÕıÔÚÆô¶¯·şÎñÆ÷ÔÚ 192.168.0.114:19132
+2016-1-22 21:03:24 [INFO] ´Ë·şÎñÆ÷ÕıÔÚÔËĞĞ Nukkit 1.0dev °æ±¾ "ÌO¹û(Apple)ÅÉ(Pie)" £¨API 1.0.0£©
+2016-1-22 21:03:24 [INFO] Nukkit ¸ù¾İ LGPL Ğí¿É·¢ĞĞ
+2016-1-22 21:03:25 [INFO] ¶ÁÈ¡ÖĞ... YBGClub v1.0
+2016-1-22 21:03:25 [WARNING] [YBGClub] =======YBG²å¼ş³õÊ¼»¯ÖĞ....
+2016-1-22 21:03:25 [INFO] ×¼±¸µØÍ¼ÖĞ... "world"
+2016-1-22 21:03:25 [INFO] ¿ªÆôÖĞ... YBGClub v1.0
+2016-1-22 21:03:25 [WARNING] [YBGClub] =======»¶Ó­Ê¹ÓÃYBGÉç²å¼ş
+2016-1-22 21:03:25 [WARNING] [YBGClub] =======·şÎñÆ÷ÃûNukkit
+2016-1-22 21:03:25 [INFO] Æô¶¯ GS4 ×´Ì¬¼àÌıÆ÷
+2016-1-22 21:03:25 [INFO] ½« query ¶Ë¿ÚÉè¶¨Îª 19132
+2016-1-22 21:03:25 [INFO] Query ÔËĞĞÔÚ 192.168.0.114:19132
+2016-1-22 21:03:25 [INFO] Ä¬ÈÏµÄÓÎÏ·Ä£Ê½Îª£ºÉú´æÄ£Ê½
+2016-1-22 21:03:25 [INFO] Æô¶¯Íê³É (1.196s)£¡ÈçĞè°ïÖú£¬ÇëÊäÈë "help" »ò "?"
+2016-1-22 21:05:39 [NOTICE] ÎŞ·¨ÕÒµ½Íæ¼ÒÊı¾İ "enejavsen"£¬ÕıÔÚ´´½¨ĞÂµÄÊı¾İ
+2016-1-22 21:05:39 [INFO] EneJavSen[/192.168.0.113:19132] µÇÈëÓÎÏ·£¬IDÎª 1 ×ø±êÎ»ÓÚ (world, 128.0, 70.0, 128.0)
+2016-1-22 21:05:56 [INFO] EneJavSen ¼ÓÈëÁËÓÎÏ·
+2016-1-22 21:08:16 [INFO] EneJavSen Àë¿ªÁËÓÎÏ·
+2016-1-22 21:08:16 [INFO] EneJavSen[/192.168.0.113:19132] µÇ³öÓÎÏ·£¬Ô­Òò£º timeout
+2016-1-23 18:13:32 [INFO] Loading nukkit.yml...
+2016-1-23 18:13:32 [INFO] Loading server properties...
+2016-1-23 18:13:32 [INFO] ½« ÖĞÎÄ(¼òÌå) (chs) Éè¶¨Îª»ù±¾ÓïÑÔ
+2016-1-23 18:13:32 [INFO] ÕıÔÚÆô¶¯Ö§³Ö Minecraft£ºPE v0.13.1 alpha °æ±¾µÄ·şÎñÆ÷
+2016-1-23 18:13:32 [INFO] ÕıÔÚÆô¶¯·şÎñÆ÷ÔÚ 192.168.0.114:19132
+2016-1-23 18:13:32 [INFO] ´Ë·şÎñÆ÷ÕıÔÚÔËĞĞ Nukkit 1.0dev °æ±¾ "ÌO¹û(Apple)ÅÉ(Pie)" £¨API 1.0.0£©
+2016-1-23 18:13:32 [INFO] Nukkit ¸ù¾İ LGPL Ğí¿É·¢ĞĞ
+2016-1-23 18:13:33 [INFO] ¶ÁÈ¡ÖĞ... YBGClub v1.0
+2016-1-23 18:13:33 [WARNING] [YBGClub] =======YBG²å¼ş³õÊ¼»¯ÖĞ....
+2016-1-23 18:13:33 [INFO] ×¼±¸µØÍ¼ÖĞ... "world"
+2016-1-23 18:13:33 [INFO] ¿ªÆôÖĞ... YBGClub v1.0
+2016-1-23 18:13:33 [WARNING] [YBGClub] =======»¶Ó­Ê¹ÓÃYBGÉç²å¼ş
+2016-1-23 18:13:33 [WARNING] [YBGClub] =======·şÎñÆ÷ÃûNukkit
+2016-1-23 18:13:33 [INFO] Æô¶¯ GS4 ×´Ì¬¼àÌıÆ÷
+2016-1-23 18:13:33 [INFO] ½« query ¶Ë¿ÚÉè¶¨Îª 19132
+2016-1-23 18:13:33 [INFO] Query ÔËĞĞÔÚ 192.168.0.114:19132
+2016-1-23 18:13:33 [INFO] Ä¬ÈÏµÄÓÎÏ·Ä£Ê½Îª£ºÉú´æÄ£Ê½
+2016-1-23 18:13:33 [INFO] Æô¶¯Íê³É (1.421s)£¡ÈçĞè°ïÖú£¬ÇëÊäÈë "help" »ò "?"
+2016-1-25 10:24:49 [INFO] Loading nukkit.yml...
+2016-1-25 10:24:49 [INFO] Loading server properties...
+2016-1-25 10:24:49 [INFO] å°† ä¸­æ–‡(ç®€ä½“) (chs) è®¾å®šä¸ºåŸºæœ¬è¯­è¨€
+2016-1-25 10:24:49 [INFO] æ­£åœ¨å¯åŠ¨æ”¯æŒ Minecraftï¼šPE v0.13.1 alpha ç‰ˆæœ¬çš„æœåŠ¡å™¨
+2016-1-25 10:24:49 [INFO] æ­£åœ¨å¯åŠ¨æœåŠ¡å™¨åœ¨ 192.168.1.100:19132
+2016-1-25 10:24:49 [INFO] æ­¤æœåŠ¡å™¨æ­£åœ¨è¿è¡Œ Nukkit 1.0dev ç‰ˆæœ¬ "è˜‹æœ(Apple)æ´¾(Pie)" ï¼ˆAPI 1.0.0ï¼‰
+2016-1-25 10:24:49 [INFO] Nukkit æ ¹æ® LGPL è®¸å¯å‘è¡Œ
+2016-1-25 10:24:50 [ERROR] æ— æ³•è¯»å–åœ¨ 'H:\MC_Development\MC_Project_eclipse\YBG_Club_Plugins\nukkit\plugins' ç›®å½•ä¸­çš„ 'YBGClub.jar'ï¼šwhile scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 8, column 1:
+    	ybgplugin.commands.ybg:
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:420)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:586)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:132)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:427)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-25 10:24:50 [ALERT] while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 8, column 1:
+    	ybgplugin.commands.ybg:
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:420)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:586)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:132)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:427)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-25 10:24:50 [INFO] å‡†å¤‡åœ°å›¾ä¸­... "world"
+2016-1-25 10:24:50 [INFO] å¯åŠ¨ GS4 çŠ¶æ€ç›‘å¬å™¨
+2016-1-25 10:24:50 [INFO] å°† query ç«¯å£è®¾å®šä¸º 19132
+2016-1-25 10:24:50 [INFO] Query è¿è¡Œåœ¨ 192.168.1.100:19132
+2016-1-25 10:24:50 [INFO] é»˜è®¤çš„æ¸¸æˆæ¨¡å¼ä¸ºï¼šç”Ÿå­˜æ¨¡å¼
+2016-1-25 10:24:50 [INFO] å¯åŠ¨å®Œæˆ (1.493s)ï¼å¦‚éœ€å¸®åŠ©ï¼Œè¯·è¾“å…¥ "help" æˆ– "?"
+2016-1-25 10:27:14 [INFO] Loading nukkit.yml...
+2016-1-25 10:27:14 [INFO] Loading server properties...
+2016-1-25 10:27:14 [INFO] å°† ä¸­æ–‡(ç®€ä½“) (chs) è®¾å®šä¸ºåŸºæœ¬è¯­è¨€
+2016-1-25 10:27:14 [INFO] æ­£åœ¨å¯åŠ¨æ”¯æŒ Minecraftï¼šPE v0.13.1 alpha ç‰ˆæœ¬çš„æœåŠ¡å™¨
+2016-1-25 10:27:14 [INFO] æ­£åœ¨å¯åŠ¨æœåŠ¡å™¨åœ¨ 192.168.1.100:19132
+2016-1-25 10:27:14 [INFO] æ­¤æœåŠ¡å™¨æ­£åœ¨è¿è¡Œ Nukkit 1.0dev ç‰ˆæœ¬ "è˜‹æœ(Apple)æ´¾(Pie)" ï¼ˆAPI 1.0.0ï¼‰
+2016-1-25 10:27:14 [INFO] Nukkit æ ¹æ® LGPL è®¸å¯å‘è¡Œ
+2016-1-25 10:27:15 [ERROR] æ— æ³•è¯»å–åœ¨ 'H:\MC_Development\MC_Project_eclipse\YBG_Club_Plugins\nukkit\plugins' ç›®å½•ä¸­çš„ 'YBGClub.jar'ï¼šwhile scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 13, column 1:
+    	helloWorld:
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:420)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:586)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:132)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:427)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-25 10:27:15 [ALERT] while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 13, column 1:
+    	helloWorld:
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:420)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:586)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:132)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:427)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-25 10:27:15 [INFO] å‡†å¤‡åœ°å›¾ä¸­... "world"
+2016-1-25 10:27:15 [INFO] å¯åŠ¨ GS4 çŠ¶æ€ç›‘å¬å™¨
+2016-1-25 10:27:15 [INFO] å°† query ç«¯å£è®¾å®šä¸º 19132
+2016-1-25 10:27:15 [INFO] Query è¿è¡Œåœ¨ 192.168.1.100:19132
+2016-1-25 10:27:15 [INFO] é»˜è®¤çš„æ¸¸æˆæ¨¡å¼ä¸ºï¼šç”Ÿå­˜æ¨¡å¼
+2016-1-25 10:27:15 [INFO] å¯åŠ¨å®Œæˆ (1.518s)ï¼å¦‚éœ€å¸®åŠ©ï¼Œè¯·è¾“å…¥ "help" æˆ– "?"
+2016-1-25 10:31:13 [INFO] Loading nukkit.yml...
+2016-1-25 10:31:14 [INFO] Loading server properties...
+2016-1-25 10:31:14 [INFO] å°† ä¸­æ–‡(ç®€ä½“) (chs) è®¾å®šä¸ºåŸºæœ¬è¯­è¨€
+2016-1-25 10:31:14 [INFO] æ­£åœ¨å¯åŠ¨æ”¯æŒ Minecraftï¼šPE v0.13.1 alpha ç‰ˆæœ¬çš„æœåŠ¡å™¨
+2016-1-25 10:31:14 [INFO] æ­£åœ¨å¯åŠ¨æœåŠ¡å™¨åœ¨ 192.168.1.100:19132
+2016-1-25 10:31:14 [INFO] æ­¤æœåŠ¡å™¨æ­£åœ¨è¿è¡Œ Nukkit 1.0dev ç‰ˆæœ¬ "è˜‹æœ(Apple)æ´¾(Pie)" ï¼ˆAPI 1.0.0ï¼‰
+2016-1-25 10:31:14 [INFO] Nukkit æ ¹æ® LGPL è®¸å¯å‘è¡Œ
+2016-1-25 10:31:14 [ERROR] æ— æ³•è¯»å–åœ¨ 'H:\MC_Development\MC_Project_eclipse\YBG_Club_Plugins\nukkit\plugins' ç›®å½•ä¸­çš„ 'YBGClub.jar'ï¼šmapping values are not allowed here
+ in 'string', line 15, column 9:
+       usage: "/helloworld"
+            ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchValue(ScannerImpl.java:871)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:360)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:427)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-25 10:31:14 [ALERT] mapping values are not allowed here
+ in 'string', line 15, column 9:
+       usage: "/helloworld"
+            ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchValue(ScannerImpl.java:871)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:360)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:427)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-25 10:31:14 [INFO] å‡†å¤‡åœ°å›¾ä¸­... "world"
+2016-1-25 10:31:14 [INFO] å¯åŠ¨ GS4 çŠ¶æ€ç›‘å¬å™¨
+2016-1-25 10:31:14 [INFO] å°† query ç«¯å£è®¾å®šä¸º 19132
+2016-1-25 10:31:14 [INFO] Query è¿è¡Œåœ¨ 192.168.1.100:19132
+2016-1-25 10:31:14 [INFO] é»˜è®¤çš„æ¸¸æˆæ¨¡å¼ä¸ºï¼šç”Ÿå­˜æ¨¡å¼
+2016-1-25 10:31:14 [INFO] å¯åŠ¨å®Œæˆ (1.329s)ï¼å¦‚éœ€å¸®åŠ©ï¼Œè¯·è¾“å…¥ "help" æˆ– "?"
+2016-1-25 10:33:13 [INFO] Loading nukkit.yml...
+2016-1-25 10:33:14 [INFO] Loading server properties...
+2016-1-25 10:33:14 [INFO] å°† ä¸­æ–‡(ç®€ä½“) (chs) è®¾å®šä¸ºåŸºæœ¬è¯­è¨€
+2016-1-25 10:33:14 [INFO] æ­£åœ¨å¯åŠ¨æ”¯æŒ Minecraftï¼šPE v0.13.1 alpha ç‰ˆæœ¬çš„æœåŠ¡å™¨
+2016-1-25 10:33:14 [INFO] æ­£åœ¨å¯åŠ¨æœåŠ¡å™¨åœ¨ 192.168.1.100:19132
+2016-1-25 10:33:14 [INFO] æ­¤æœåŠ¡å™¨æ­£åœ¨è¿è¡Œ Nukkit 1.0dev ç‰ˆæœ¬ "è˜‹æœ(Apple)æ´¾(Pie)" ï¼ˆAPI 1.0.0ï¼‰
+2016-1-25 10:33:14 [INFO] Nukkit æ ¹æ® LGPL è®¸å¯å‘è¡Œ
+2016-1-25 10:33:14 [ERROR] æ— æ³•è¯»å–åœ¨ 'H:\MC_Development\MC_Project_eclipse\YBG_Club_Plugins\nukkit\plugins' ç›®å½•ä¸­çš„ 'YBGClub.jar'ï¼šwhile scanning a simple key
+ in 'string', line 16, column 3:
+      permission :ybgclub.commands.ybg 
+      ^
+could not find expected ':'
+ in 'string', line 16, column 36:
+      permission :ybgclub.commands.ybg 
+                                       ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.removePossibleSimpleKey(ScannerImpl.java:514)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchStreamEnd(ScannerImpl.java:588)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:301)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:427)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-25 10:33:14 [ALERT] while scanning a simple key
+ in 'string', line 16, column 3:
+      permission :ybgclub.commands.ybg 
+      ^
+could not find expected ':'
+ in 'string', line 16, column 36:
+      permission :ybgclub.commands.ybg 
+                                       ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.removePossibleSimpleKey(ScannerImpl.java:514)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchStreamEnd(ScannerImpl.java:588)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:301)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.loadAs(Yaml.java:427)
+	at cn.nukkit.plugin.PluginDescription.<init>(PluginDescription.java:137)
+	at cn.nukkit.plugin.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:91)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:163)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:123)
+	at cn.nukkit.plugin.PluginManager.loadPlugins(PluginManager.java:119)
+	at cn.nukkit.Server.<init>(Server.java:360)
+	at cn.nukkit.Nukkit.main(Nukkit.java:65)
+
+2016-1-25 10:33:14 [INFO] å‡†å¤‡åœ°å›¾ä¸­... "world"
+2016-1-25 10:33:14 [INFO] å¯åŠ¨ GS4 çŠ¶æ€ç›‘å¬å™¨
+2016-1-25 10:33:14 [INFO] å°† query ç«¯å£è®¾å®šä¸º 19132
+2016-1-25 10:33:14 [INFO] Query è¿è¡Œåœ¨ 192.168.1.100:19132
+2016-1-25 10:33:14 [INFO] é»˜è®¤çš„æ¸¸æˆæ¨¡å¼ä¸ºï¼šç”Ÿå­˜æ¨¡å¼
+2016-1-25 10:33:14 [INFO] å¯åŠ¨å®Œæˆ (1.515s)ï¼å¦‚éœ€å¸®åŠ©ï¼Œè¯·è¾“å…¥ "help" æˆ– "?"
+2016-1-25 10:35:37 [INFO] Loading nukkit.yml...
+2016-1-25 10:35:37 [INFO] Loading server properties...
+2016-1-25 10:35:37 [INFO] ½« ÖĞÎÄ(¼òÌå) (chs) Éè¶¨Îª»ù±¾ÓïÑÔ
+2016-1-25 10:35:37 [INFO] ÕıÔÚÆô¶¯Ö§³Ö Minecraft£ºPE v0.13.1 alpha °æ±¾µÄ·şÎñÆ÷
+2016-1-25 10:35:38 [INFO] ÕıÔÚÆô¶¯·şÎñÆ÷ÔÚ 192.168.1.100:19132
+2016-1-25 10:35:38 [INFO] ´Ë·şÎñÆ÷ÕıÔÚÔËĞĞ Nukkit 1.0dev °æ±¾ "ÌO¹û(Apple)ÅÉ(Pie)" £¨API 1.0.0£©
+2016-1-25 10:35:38 [INFO] Nukkit ¸ù¾İ LGPL Ğí¿É·¢ĞĞ
+2016-1-25 10:35:38 [INFO] ¶ÁÈ¡ÖĞ... YBGClub v1.0
+2016-1-25 10:35:38 [CRITICAL] ÎŞ·¨¶ÁÈ¡²å¼ş 'YBGClub'
+2016-1-25 10:35:38 [INFO] ×¼±¸µØÍ¼ÖĞ... "world"
+2016-1-25 10:35:38 [INFO] Æô¶¯ GS4 ×´Ì¬¼àÌıÆ÷
+2016-1-25 10:35:38 [INFO] ½« query ¶Ë¿ÚÉè¶¨Îª 19132
+2016-1-25 10:35:38 [INFO] Query ÔËĞĞÔÚ 192.168.1.100:19132
+2016-1-25 10:35:38 [INFO] Ä¬ÈÏµÄÓÎÏ·Ä£Ê½Îª£ºÉú´æÄ£Ê½
+2016-1-25 10:35:38 [INFO] Æô¶¯Íê³É (1.383s)£¡ÈçĞè°ïÖú£¬ÇëÊäÈë "help" »ò "?"
+2016-1-25 10:35:55 [INFO] --- ÏÔÊ¾°ïÖúÊÖ²á×Ü 1 Ò³ÖĞµÄµÚ 1 Ò³ (/help <Ò³Âë>) ---
+2016-1-25 10:35:55 [INFO] /ban: ½ûÖ¹Ö¸¶¨µÄÍæ¼Ò¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 10:35:55 [INFO] /ban-ip: ½ûÖ¹Ö¸¶¨µÄ IP µØÖ·¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 10:35:55 [INFO] /banlist: ²é¿´¸Ã·şÎñÆ÷·â½ûµÄËùÓĞÍæ¼Ò
+2016-1-25 10:35:55 [INFO] /defaultgamemode: ÉèÖÃÄ¬ÈÏµÄÓÎÏ·Ä£Ê½
+2016-1-25 10:35:55 [INFO] /deop: È¡ÏûÖ¸¶¨Íæ¼ÒµÄ¹ÜÀíÔ±È¨ÏŞ
+2016-1-25 10:35:55 [INFO] /difficulty: ÉèÖÃÓÎÏ·µÄÄÑÒ×¶È
+2016-1-25 10:35:55 [INFO] /gamemode: ¸Ä±äÍæ¼Òµ½Ò»¸öÌØ¶¨µÄÓÎÏ·Ä£Ê½
+2016-1-25 10:35:55 [INFO] /give: ¸øÖ¸¶¨Íæ¼ÒÒ»¶¨ÊıÁ¿µÄÎïÆ·
+2016-1-25 10:35:55 [INFO] /help: ÏÔÊ¾°ïÖúÁĞ±í
+2016-1-25 10:35:55 [INFO] /kick: ´Ó·şÎñÆ÷ÖĞÉ¾³ıÖ¸¶¨Íæ¼Ò
+2016-1-25 10:35:55 [INFO] /kill: ×ÔÉ±»òÉ±ËÀÆäËûÍæ¼Ò
+2016-1-25 10:35:55 [INFO] /list: ÏÔÊ¾ÔÚÏßÍæ¼ÒÁĞ±í
+2016-1-25 10:35:55 [INFO] /me: ÓÚÁÄÌìÖĞ×÷³öÖ¸¶¨µÄ¶¯×÷
+2016-1-25 10:35:55 [INFO] /op: ¸³ÓèÖ¸¶¨Íæ¼Ò¹ÜÀíÔ±È¨ÏŞ
+2016-1-25 10:35:55 [INFO] /pardon: ÔÊĞíÖ¸¶¨Íæ¼Ò¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 10:35:55 [INFO] /pardon-ip: ÔÊĞíÖ¸¶¨ IP µØÖ·¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 10:35:55 [INFO] /particle: ¼ÓÈëÁ£×ÓĞ§¹ûÖÁÊÀ½ç
+2016-1-25 10:35:55 [INFO] /plugins: »ñÈ¡ÔÚ·şÎñÆ÷ÉÏÔËĞĞµÄ²å¼şÁĞ±í
+2016-1-25 10:35:55 [INFO] /reload: ÖØĞÂ¶ÁÈ¡·şÎñÆ÷Éè¶¨ºÍ²å¼ş
+2016-1-25 10:35:55 [INFO] /save-all: ±£´æ·şÎñÆ÷Êı¾İµ½´ÅÅÌÉÏ
+2016-1-25 10:35:55 [INFO] /save-off: Í£ÓÃ×Ô¶¯±£´æ·şÎñÆ÷Êı¾İ
+2016-1-25 10:35:55 [INFO] /save-on: ÆôÓÃ×Ô¶¯±£´æ·şÎñÆ÷Êı¾İ
+2016-1-25 10:35:55 [INFO] /say: ÒÔ·¢ËÍÖ¸ÁîÕßÉí·İ¹ã²¥Ö¸¶¨µÄÑ¶Ï¢
+2016-1-25 10:35:55 [INFO] /seed: ÏÔÊ¾ÊÀ½çÖÖ×Ó
+2016-1-25 10:35:55 [INFO] /setworldspawn: Éè¶¨Ò»¸öÊÀ½çÖØÉúµã¡£Î´Ö¸¶¨×ø±ê£¬½«Ê¹ÓÃÍæ¼ÒµÄ×ø±ê¡£
+2016-1-25 10:35:55 [INFO] /spawnpoint: Éè¶¨Íæ¼ÒÖØÉúµã
+2016-1-25 10:35:55 [INFO] /stop: ¹Ø±Õ·şÎñÆ÷
+2016-1-25 10:35:55 [INFO] /tell: ·¢ËÍË½ÃÜĞÅÏ¢¸øÖ¸¶¨Íæ¼Ò
+2016-1-25 10:35:55 [INFO] /time: ¸ü¸ÄÃ¿¸öÊÀ½çµÄÊ±¼ä
+2016-1-25 10:35:55 [INFO] /tp: ´«ËÍÖ¸¶¨Íæ¼Ò£¨»òÊÇ×Ô¼º£©µ½ÁíÒ»Î»Íæ¼Ò»ò×ø±ê
+2016-1-25 10:35:55 [INFO] /version: ²é¿´´Ë·şÎñÆ÷ (¼°ÆäÊ¹ÓÃµÄ²å¼ş) µÄ°æ±¾
+2016-1-25 10:35:55 [INFO] /weather: ÉèÖÃµ±Ç°µØÍ¼µÄÌìÆø×´Ì¬
+2016-1-25 10:35:55 [INFO] /whitelist: ¹ÜÀíÔ±ÔÊĞí¼ÓÈë´Ë·şÎñÆ÷µÄÍæ¼ÒÁĞ±í
+2016-1-25 10:36:02 [INFO] No help for ybg
+2016-1-25 10:41:19 [INFO] Loading nukkit.yml...
+2016-1-25 10:41:19 [INFO] Loading server properties...
+2016-1-25 10:41:19 [INFO] å°† ä¸­æ–‡(ç®€ä½“) (chs) è®¾å®šä¸ºåŸºæœ¬è¯­è¨€
+2016-1-25 10:41:19 [INFO] æ­£åœ¨å¯åŠ¨æ”¯æŒ Minecraftï¼šPE v0.13.1 alpha ç‰ˆæœ¬çš„æœåŠ¡å™¨
+2016-1-25 10:41:19 [INFO] æ­£åœ¨å¯åŠ¨æœåŠ¡å™¨åœ¨ 192.168.1.100:19132
+2016-1-25 10:41:19 [INFO] æ­¤æœåŠ¡å™¨æ­£åœ¨è¿è¡Œ Nukkit 1.0dev ç‰ˆæœ¬ "è˜‹æœ(Apple)æ´¾(Pie)" ï¼ˆAPI 1.0.0ï¼‰
+2016-1-25 10:41:19 [INFO] Nukkit æ ¹æ® LGPL è®¸å¯å‘è¡Œ
+2016-1-25 10:41:20 [INFO] è¯»å–ä¸­... YBGClub v1.0
+2016-1-25 10:41:20 [WARNING] [YBGClub] =======YBGæ’ä»¶åˆå§‹åŒ–ä¸­....
+2016-1-25 10:41:20 [INFO] å‡†å¤‡åœ°å›¾ä¸­... "world"
+2016-1-25 10:41:20 [INFO] å¼€å¯ä¸­... YBGClub v1.0
+2016-1-25 10:41:20 [WARNING] [YBGClub] =======æ¬¢è¿ä½¿ç”¨YBGç¤¾æ’ä»¶
+2016-1-25 10:41:20 [WARNING] [YBGClub] =======æœåŠ¡å™¨å
+2016-1-25 10:41:20 [INFO] å¯åŠ¨ GS4 çŠ¶æ€ç›‘å¬å™¨
+2016-1-25 10:41:20 [INFO] å°† query ç«¯å£è®¾å®šä¸º 19132
+2016-1-25 10:41:20 [INFO] Query è¿è¡Œåœ¨ 192.168.1.100:19132
+2016-1-25 10:41:20 [INFO] é»˜è®¤çš„æ¸¸æˆæ¨¡å¼ä¸ºï¼šç”Ÿå­˜æ¨¡å¼
+2016-1-25 10:41:20 [INFO] å¯åŠ¨å®Œæˆ (1.516s)ï¼å¦‚éœ€å¸®åŠ©ï¼Œè¯·è¾“å…¥ "help" æˆ– "?"
+2016-1-25 10:44:29 [INFO] Loading nukkit.yml...
+2016-1-25 10:44:29 [INFO] Loading server properties...
+2016-1-25 10:44:29 [INFO] ½« ÖĞÎÄ(¼òÌå) (chs) Éè¶¨Îª»ù±¾ÓïÑÔ
+2016-1-25 10:44:29 [INFO] ÕıÔÚÆô¶¯Ö§³Ö Minecraft£ºPE v0.13.1 alpha °æ±¾µÄ·şÎñÆ÷
+2016-1-25 10:44:30 [INFO] ÕıÔÚÆô¶¯·şÎñÆ÷ÔÚ 192.168.1.100:19132
+2016-1-25 10:44:30 [INFO] ´Ë·şÎñÆ÷ÕıÔÚÔËĞĞ Nukkit 1.0dev °æ±¾ "ÌO¹û(Apple)ÅÉ(Pie)" £¨API 1.0.0£©
+2016-1-25 10:44:30 [INFO] Nukkit ¸ù¾İ LGPL Ğí¿É·¢ĞĞ
+2016-1-25 10:44:30 [INFO] ¶ÁÈ¡ÖĞ... YBGClub v1.0
+2016-1-25 10:44:30 [CRITICAL] ÎŞ·¨¶ÁÈ¡²å¼ş 'YBGClub'
+2016-1-25 10:44:30 [INFO] ×¼±¸µØÍ¼ÖĞ... "world"
+2016-1-25 10:44:30 [INFO] Æô¶¯ GS4 ×´Ì¬¼àÌıÆ÷
+2016-1-25 10:44:30 [INFO] ½« query ¶Ë¿ÚÉè¶¨Îª 19132
+2016-1-25 10:44:30 [INFO] Query ÔËĞĞÔÚ 192.168.1.100:19132
+2016-1-25 10:44:30 [INFO] Ä¬ÈÏµÄÓÎÏ·Ä£Ê½Îª£ºÉú´æÄ£Ê½
+2016-1-25 10:44:30 [INFO] Æô¶¯Íê³É (1.415s)£¡ÈçĞè°ïÖú£¬ÇëÊäÈë "help" »ò "?"
+2016-1-25 11:12:07 [INFO] Loading nukkit.yml...
+2016-1-25 11:12:07 [INFO] Loading server properties...
+2016-1-25 11:12:08 [INFO] ½« ÖĞÎÄ(¼òÌå) (chs) Éè¶¨Îª»ù±¾ÓïÑÔ
+2016-1-25 11:12:08 [INFO] ÕıÔÚÆô¶¯Ö§³Ö Minecraft£ºPE v0.13.1 alpha °æ±¾µÄ·şÎñÆ÷
+2016-1-25 11:12:08 [INFO] ÕıÔÚÆô¶¯·şÎñÆ÷ÔÚ 192.168.1.100:19132
+2016-1-25 11:12:08 [INFO] ´Ë·şÎñÆ÷ÕıÔÚÔËĞĞ Nukkit 1.0dev °æ±¾ "ÌO¹û(Apple)ÅÉ(Pie)" £¨API 1.0.0£©
+2016-1-25 11:12:08 [INFO] Nukkit ¸ù¾İ LGPL Ğí¿É·¢ĞĞ
+2016-1-25 11:12:08 [INFO] ¶ÁÈ¡ÖĞ... YBGClub v1.0
+2016-1-25 11:12:08 [CRITICAL] ÎŞ·¨¶ÁÈ¡²å¼ş 'YBGClub'
+2016-1-25 11:12:08 [INFO] ×¼±¸µØÍ¼ÖĞ... "world"
+2016-1-25 11:12:08 [INFO] Æô¶¯ GS4 ×´Ì¬¼àÌıÆ÷
+2016-1-25 11:12:08 [INFO] ½« query ¶Ë¿ÚÉè¶¨Îª 19132
+2016-1-25 11:12:08 [INFO] Query ÔËĞĞÔÚ 192.168.1.100:19132
+2016-1-25 11:12:08 [INFO] Ä¬ÈÏµÄÓÎÏ·Ä£Ê½Îª£ºÉú´æÄ£Ê½
+2016-1-25 11:12:08 [INFO] Æô¶¯Íê³É (1.662s)£¡ÈçĞè°ïÖú£¬ÇëÊäÈë "help" »ò "?"
+2016-1-25 11:16:08 [INFO] [CONSOLE: ÕıÔÚ¹Ø±Õ·şÎñÆ÷]
+2016-1-25 11:16:08 [INFO] ÕıÔÚÒÆ³ıµØÍ¼ "world"
+2016-1-25 11:16:08 [INFO] Stopping other threads
+2016-1-25 11:19:17 [INFO] Loading nukkit.yml...
+2016-1-25 11:19:17 [INFO] Loading server properties...
+2016-1-25 11:19:17 [INFO] ½« ÖĞÎÄ(¼òÌå) (chs) Éè¶¨Îª»ù±¾ÓïÑÔ
+2016-1-25 11:19:17 [INFO] ÕıÔÚÆô¶¯Ö§³Ö Minecraft£ºPE v0.13.1 alpha °æ±¾µÄ·şÎñÆ÷
+2016-1-25 11:19:17 [INFO] ÕıÔÚÆô¶¯·şÎñÆ÷ÔÚ 192.168.1.100:19132
+2016-1-25 11:19:17 [INFO] ´Ë·şÎñÆ÷ÕıÔÚÔËĞĞ Nukkit 1.0dev °æ±¾ "ÌO¹û(Apple)ÅÉ(Pie)" £¨API 1.0.0£©
+2016-1-25 11:19:17 [INFO] Nukkit ¸ù¾İ LGPL Ğí¿É·¢ĞĞ
+2016-1-25 11:19:18 [INFO] ¶ÁÈ¡ÖĞ... YBGClub v1.0
+2016-1-25 11:19:18 [WARNING] [YBGClub] =======YBG²å¼ş³õÊ¼»¯ÖĞ....
+2016-1-25 11:19:18 [INFO] ×¼±¸µØÍ¼ÖĞ... "world"
+2016-1-25 11:19:18 [INFO] ¿ªÆôÖĞ... YBGClub v1.0
+2016-1-25 11:19:18 [WARNING] [YBGClub] =======»¶Ó­Ê¹ÓÃYBGÉç²å¼ş
+2016-1-25 11:19:18 [INFO] Æô¶¯ GS4 ×´Ì¬¼àÌıÆ÷
+2016-1-25 11:19:18 [INFO] ½« query ¶Ë¿ÚÉè¶¨Îª 19132
+2016-1-25 11:19:18 [INFO] Query ÔËĞĞÔÚ 192.168.1.100:19132
+2016-1-25 11:19:18 [INFO] Ä¬ÈÏµÄÓÎÏ·Ä£Ê½Îª£ºÉú´æÄ£Ê½
+2016-1-25 11:19:18 [INFO] Æô¶¯Íê³É (2.066s)£¡ÈçĞè°ïÖú£¬ÇëÊäÈë "help" »ò "?"
+2016-1-25 11:19:29 [INFO] No help for ybg
+2016-1-25 11:19:31 [INFO] --- ÏÔÊ¾°ïÖúÊÖ²á×Ü 1 Ò³ÖĞµÄµÚ 1 Ò³ (/help <Ò³Âë>) ---
+2016-1-25 11:19:31 [INFO] /ban: ½ûÖ¹Ö¸¶¨µÄÍæ¼Ò¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 11:19:31 [INFO] /ban-ip: ½ûÖ¹Ö¸¶¨µÄ IP µØÖ·¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 11:19:31 [INFO] /banlist: ²é¿´¸Ã·şÎñÆ÷·â½ûµÄËùÓĞÍæ¼Ò
+2016-1-25 11:19:31 [INFO] /defaultgamemode: ÉèÖÃÄ¬ÈÏµÄÓÎÏ·Ä£Ê½
+2016-1-25 11:19:31 [INFO] /deop: È¡ÏûÖ¸¶¨Íæ¼ÒµÄ¹ÜÀíÔ±È¨ÏŞ
+2016-1-25 11:19:31 [INFO] /difficulty: ÉèÖÃÓÎÏ·µÄÄÑÒ×¶È
+2016-1-25 11:19:31 [INFO] /gamemode: ¸Ä±äÍæ¼Òµ½Ò»¸öÌØ¶¨µÄÓÎÏ·Ä£Ê½
+2016-1-25 11:19:31 [INFO] /give: ¸øÖ¸¶¨Íæ¼ÒÒ»¶¨ÊıÁ¿µÄÎïÆ·
+2016-1-25 11:19:31 [INFO] /helloWorld: µ÷ÓÃÊä³öHelloWorld!
+2016-1-25 11:19:31 [INFO] /help: ÏÔÊ¾°ïÖúÁĞ±í
+2016-1-25 11:19:31 [INFO] /kick: ´Ó·şÎñÆ÷ÖĞÉ¾³ıÖ¸¶¨Íæ¼Ò
+2016-1-25 11:19:31 [INFO] /kill: ×ÔÉ±»òÉ±ËÀÆäËûÍæ¼Ò
+2016-1-25 11:19:31 [INFO] /list: ÏÔÊ¾ÔÚÏßÍæ¼ÒÁĞ±í
+2016-1-25 11:19:31 [INFO] /me: ÓÚÁÄÌìÖĞ×÷³öÖ¸¶¨µÄ¶¯×÷
+2016-1-25 11:19:31 [INFO] /op: ¸³ÓèÖ¸¶¨Íæ¼Ò¹ÜÀíÔ±È¨ÏŞ
+2016-1-25 11:19:31 [INFO] /pardon: ÔÊĞíÖ¸¶¨Íæ¼Ò¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 11:19:31 [INFO] /pardon-ip: ÔÊĞíÖ¸¶¨ IP µØÖ·¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 11:19:31 [INFO] /particle: ¼ÓÈëÁ£×ÓĞ§¹ûÖÁÊÀ½ç
+2016-1-25 11:19:31 [INFO] /plugins: »ñÈ¡ÔÚ·şÎñÆ÷ÉÏÔËĞĞµÄ²å¼şÁĞ±í
+2016-1-25 11:19:31 [INFO] /reload: ÖØĞÂ¶ÁÈ¡·şÎñÆ÷Éè¶¨ºÍ²å¼ş
+2016-1-25 11:19:31 [INFO] /save-all: ±£´æ·şÎñÆ÷Êı¾İµ½´ÅÅÌÉÏ
+2016-1-25 11:19:31 [INFO] /save-off: Í£ÓÃ×Ô¶¯±£´æ·şÎñÆ÷Êı¾İ
+2016-1-25 11:19:31 [INFO] /save-on: ÆôÓÃ×Ô¶¯±£´æ·şÎñÆ÷Êı¾İ
+2016-1-25 11:19:31 [INFO] /say: ÒÔ·¢ËÍÖ¸ÁîÕßÉí·İ¹ã²¥Ö¸¶¨µÄÑ¶Ï¢
+2016-1-25 11:19:31 [INFO] /seed: ÏÔÊ¾ÊÀ½çÖÖ×Ó
+2016-1-25 11:19:31 [INFO] /setworldspawn: Éè¶¨Ò»¸öÊÀ½çÖØÉúµã¡£Î´Ö¸¶¨×ø±ê£¬½«Ê¹ÓÃÍæ¼ÒµÄ×ø±ê¡£
+2016-1-25 11:19:31 [INFO] /spawnpoint: Éè¶¨Íæ¼ÒÖØÉúµã
+2016-1-25 11:19:31 [INFO] /stop: ¹Ø±Õ·şÎñÆ÷
+2016-1-25 11:19:31 [INFO] /tell: ·¢ËÍË½ÃÜĞÅÏ¢¸øÖ¸¶¨Íæ¼Ò
+2016-1-25 11:19:31 [INFO] /time: ¸ü¸ÄÃ¿¸öÊÀ½çµÄÊ±¼ä
+2016-1-25 11:19:31 [INFO] /tp: ´«ËÍÖ¸¶¨Íæ¼Ò£¨»òÊÇ×Ô¼º£©µ½ÁíÒ»Î»Íæ¼Ò»ò×ø±ê
+2016-1-25 11:19:31 [INFO] /version: ²é¿´´Ë·şÎñÆ÷ (¼°ÆäÊ¹ÓÃµÄ²å¼ş) µÄ°æ±¾
+2016-1-25 11:19:31 [INFO] /weather: ÉèÖÃµ±Ç°µØÍ¼µÄÌìÆø×´Ì¬
+2016-1-25 11:19:31 [INFO] /whitelist: ¹ÜÀíÔ±ÔÊĞí¼ÓÈë´Ë·şÎñÆ÷µÄÍæ¼ÒÁĞ±í
+2016-1-25 11:20:12 [INFO] No help for ybgclub
+2016-1-25 11:20:34 [INFO] No help for ybgclub
+2016-1-25 11:22:00 [INFO] Î´ÖªµÄÖ¸Áî¡£ÇëÊ¹ÓÃ /help À´ÏÔÊ¾Ö¸ÁîÁĞ±í¡£
+2016-1-25 11:22:11 [INFO] ÓÃ·¨£º/helloworld
+2016-1-25 11:22:42 [INFO] ---------  Help: /helloWorld ---------
+2016-1-25 11:22:42 [INFO] Description: µ÷ÓÃÊä³öHelloWorld!
+2016-1-25 11:22:42 [INFO] Usage: /helloworld
+2016-1-25 11:23:25 [INFO] ÓÃ·¨£º/helloworld
+2016-1-25 11:23:31 [INFO] Î´ÖªµÄÖ¸Áî¡£ÇëÊ¹ÓÃ /help À´ÏÔÊ¾Ö¸ÁîÁĞ±í¡£
+2016-1-25 11:24:00 [INFO] ÓÃ·¨£º/helloworld
+2016-1-25 11:27:48 [INFO] [CONSOLE: ÕıÔÚ¹Ø±Õ·şÎñÆ÷]
+2016-1-25 11:27:48 [INFO] ¹Ø±ÕÖĞ... YBGClub v1.0
+2016-1-25 11:27:48 [WARNING] [YBGClub] =======¸ĞĞ»Ê¹ÓÃYBG²å¼ş..²å¼şÒÑ½áÊø
+2016-1-25 11:27:48 [INFO] ÕıÔÚÒÆ³ıµØÍ¼ "world"
+2016-1-25 11:27:49 [INFO] Stopping other threads
+2016-1-25 11:27:53 [INFO] Loading nukkit.yml...
+2016-1-25 11:27:53 [INFO] Loading server properties...
+2016-1-25 11:27:53 [INFO] ½« ÖĞÎÄ(¼òÌå) (chs) Éè¶¨Îª»ù±¾ÓïÑÔ
+2016-1-25 11:27:53 [INFO] ÕıÔÚÆô¶¯Ö§³Ö Minecraft£ºPE v0.13.1 alpha °æ±¾µÄ·şÎñÆ÷
+2016-1-25 11:27:53 [INFO] ÕıÔÚÆô¶¯·şÎñÆ÷ÔÚ 192.168.1.100:19132
+2016-1-25 11:27:53 [INFO] ´Ë·şÎñÆ÷ÕıÔÚÔËĞĞ Nukkit 1.0dev °æ±¾ "ÌO¹û(Apple)ÅÉ(Pie)" £¨API 1.0.0£©
+2016-1-25 11:27:53 [INFO] Nukkit ¸ù¾İ LGPL Ğí¿É·¢ĞĞ
+2016-1-25 11:27:54 [INFO] ¶ÁÈ¡ÖĞ... YBGClub v1.0
+2016-1-25 11:27:54 [WARNING] [YBGClub] =======YBG²å¼ş³õÊ¼»¯ÖĞ....
+2016-1-25 11:27:54 [INFO] ×¼±¸µØÍ¼ÖĞ... "world"
+2016-1-25 11:27:54 [INFO] ¿ªÆôÖĞ... YBGClub v1.0
+2016-1-25 11:27:54 [WARNING] [YBGClub] =======»¶Ó­Ê¹ÓÃYBGÉç²å¼ş
+2016-1-25 11:27:54 [INFO] Æô¶¯ GS4 ×´Ì¬¼àÌıÆ÷
+2016-1-25 11:27:54 [INFO] ½« query ¶Ë¿ÚÉè¶¨Îª 19132
+2016-1-25 11:27:54 [INFO] Query ÔËĞĞÔÚ 192.168.1.100:19132
+2016-1-25 11:27:54 [INFO] Ä¬ÈÏµÄÓÎÏ·Ä£Ê½Îª£ºÉú´æÄ£Ê½
+2016-1-25 11:27:54 [INFO] Æô¶¯Íê³É (1.55s)£¡ÈçĞè°ïÖú£¬ÇëÊäÈë "help" »ò "?"
+2016-1-25 11:27:59 [INFO] --- ÏÔÊ¾°ïÖúÊÖ²á×Ü 1 Ò³ÖĞµÄµÚ 1 Ò³ (/help <Ò³Âë>) ---
+2016-1-25 11:27:59 [INFO] /ban: ½ûÖ¹Ö¸¶¨µÄÍæ¼Ò¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 11:27:59 [INFO] /ban-ip: ½ûÖ¹Ö¸¶¨µÄ IP µØÖ·¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 11:27:59 [INFO] /banlist: ²é¿´¸Ã·şÎñÆ÷·â½ûµÄËùÓĞÍæ¼Ò
+2016-1-25 11:27:59 [INFO] /defaultgamemode: ÉèÖÃÄ¬ÈÏµÄÓÎÏ·Ä£Ê½
+2016-1-25 11:27:59 [INFO] /deop: È¡ÏûÖ¸¶¨Íæ¼ÒµÄ¹ÜÀíÔ±È¨ÏŞ
+2016-1-25 11:27:59 [INFO] /difficulty: ÉèÖÃÓÎÏ·µÄÄÑÒ×¶È
+2016-1-25 11:27:59 [INFO] /gamemode: ¸Ä±äÍæ¼Òµ½Ò»¸öÌØ¶¨µÄÓÎÏ·Ä£Ê½
+2016-1-25 11:27:59 [INFO] /give: ¸øÖ¸¶¨Íæ¼ÒÒ»¶¨ÊıÁ¿µÄÎïÆ·
+2016-1-25 11:27:59 [INFO] /helloworld: µ÷ÓÃÊä³öHelloWorld!
+2016-1-25 11:27:59 [INFO] /help: ÏÔÊ¾°ïÖúÁĞ±í
+2016-1-25 11:27:59 [INFO] /kick: ´Ó·şÎñÆ÷ÖĞÉ¾³ıÖ¸¶¨Íæ¼Ò
+2016-1-25 11:27:59 [INFO] /kill: ×ÔÉ±»òÉ±ËÀÆäËûÍæ¼Ò
+2016-1-25 11:27:59 [INFO] /list: ÏÔÊ¾ÔÚÏßÍæ¼ÒÁĞ±í
+2016-1-25 11:27:59 [INFO] /me: ÓÚÁÄÌìÖĞ×÷³öÖ¸¶¨µÄ¶¯×÷
+2016-1-25 11:27:59 [INFO] /op: ¸³ÓèÖ¸¶¨Íæ¼Ò¹ÜÀíÔ±È¨ÏŞ
+2016-1-25 11:27:59 [INFO] /pardon: ÔÊĞíÖ¸¶¨Íæ¼Ò¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 11:27:59 [INFO] /pardon-ip: ÔÊĞíÖ¸¶¨ IP µØÖ·¼ÓÈë´Ë·şÎñÆ÷
+2016-1-25 11:27:59 [INFO] /particle: ¼ÓÈëÁ£×ÓĞ§¹ûÖÁÊÀ½ç
+2016-1-25 11:27:59 [INFO] /plugins: »ñÈ¡ÔÚ·şÎñÆ÷ÉÏÔËĞĞµÄ²å¼şÁĞ±í
+2016-1-25 11:27:59 [INFO] /reload: ÖØĞÂ¶ÁÈ¡·şÎñÆ÷Éè¶¨ºÍ²å¼ş
+2016-1-25 11:27:59 [INFO] /save-all: ±£´æ·şÎñÆ÷Êı¾İµ½´ÅÅÌÉÏ
+2016-1-25 11:27:59 [INFO] /save-off: Í£ÓÃ×Ô¶¯±£´æ·şÎñÆ÷Êı¾İ
+2016-1-25 11:27:59 [INFO] /save-on: ÆôÓÃ×Ô¶¯±£´æ·şÎñÆ÷Êı¾İ
+2016-1-25 11:27:59 [INFO] /say: ÒÔ·¢ËÍÖ¸ÁîÕßÉí·İ¹ã²¥Ö¸¶¨µÄÑ¶Ï¢
+2016-1-25 11:27:59 [INFO] /seed: ÏÔÊ¾ÊÀ½çÖÖ×Ó
+2016-1-25 11:27:59 [INFO] /setworldspawn: Éè¶¨Ò»¸öÊÀ½çÖØÉúµã¡£Î´Ö¸¶¨×ø±ê£¬½«Ê¹ÓÃÍæ¼ÒµÄ×ø±ê¡£
+2016-1-25 11:27:59 [INFO] /spawnpoint: Éè¶¨Íæ¼ÒÖØÉúµã
+2016-1-25 11:27:59 [INFO] /stop: ¹Ø±Õ·şÎñÆ÷
+2016-1-25 11:27:59 [INFO] /tell: ·¢ËÍË½ÃÜĞÅÏ¢¸øÖ¸¶¨Íæ¼Ò
+2016-1-25 11:27:59 [INFO] /time: ¸ü¸ÄÃ¿¸öÊÀ½çµÄÊ±¼ä
+2016-1-25 11:27:59 [INFO] /tp: ´«ËÍÖ¸¶¨Íæ¼Ò£¨»òÊÇ×Ô¼º£©µ½ÁíÒ»Î»Íæ¼Ò»ò×ø±ê
+2016-1-25 11:27:59 [INFO] /version: ²é¿´´Ë·şÎñÆ÷ (¼°ÆäÊ¹ÓÃµÄ²å¼ş) µÄ°æ±¾
+2016-1-25 11:27:59 [INFO] /weather: ÉèÖÃµ±Ç°µØÍ¼µÄÌìÆø×´Ì¬
+2016-1-25 11:27:59 [INFO] /whitelist: ¹ÜÀíÔ±ÔÊĞí¼ÓÈë´Ë·şÎñÆ÷µÄÍæ¼ÒÁĞ±í
+2016-1-25 11:28:05 [INFO] µ÷ÓÃybg²å¼şµÄhelloWorld!

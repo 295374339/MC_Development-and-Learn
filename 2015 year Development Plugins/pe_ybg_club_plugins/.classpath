@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_71"/>
+	<classpathentry kind="lib" path="nukkit/nukkit-1.0-SNAPSHOT.jar" sourcepath="H:/MC_Development/MC_Project_eclipse/YBG_Club_Plugins/nukkit/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
